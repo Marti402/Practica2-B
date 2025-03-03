@@ -1,4 +1,4 @@
-# Practica2_Alexandre_Martí
+# Practica2-B
 Participants: Alexandre Pascual / Martí Vila
 
 ## _Timer Interrupt_ en ESP32
